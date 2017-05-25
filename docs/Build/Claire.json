@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Claire.data.unityweb",
+"asmCodeUrl": "Claire.asm.code.unityweb",
+"asmMemoryUrl": "Claire.asm.memory.unityweb",
+"asmFrameworkUrl": "Claire.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
